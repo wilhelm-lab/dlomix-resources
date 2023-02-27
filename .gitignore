@@ -1,1 +1,5 @@
+# ignore all checkoints
 **/.ipynb_checkpoints
+
+# ignore weights and biases directories under /notebooks only
+notebooks/**/wandb
