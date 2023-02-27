@@ -1,0 +1,49 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.6.12",
+    "heartbeatAt": "2023-02-27T14:03:00.839369",
+    "startedAt": "2023-02-27T14:02:58.118773",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "dlomix-resources/notebooks/Intensity/tasks/4_DataSplit.ipynb",
+    "root": "D:/Compmass/dlomix-resources",
+    "git": {
+        "remote": "https://github.com/wilhelm-lab/dlomix-resources.git",
+        "commit": "a73cc35e5e3a2c8036c7ddba5c8f4dcc0d5bdbb8"
+    },
+    "email": "wassim.gabriel@gmail.com",
+    "host": "DESKTOP-NLL76OC",
+    "username": "wassim",
+    "executable": "C:\\Users\\wassim\\anaconda3\\envs\\keras\\python.exe",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 2208.0,
+        "min": 0.0,
+        "max": 2208.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2208.0,
+            "min": 0.0,
+            "max": 2208.0
+        }
+    ],
+    "disk": {
+        "total": 931.3867149353027,
+        "used": 630.688045501709
+    },
+    "gpu": "NVIDIA GeForce GTX 1070 with Max-Q Design",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1070 with Max-Q Design",
+            "memory_total": 8589934592
+        }
+    ],
+    "memory": {
+        "total": 31.796871185302734
+    }
+}
