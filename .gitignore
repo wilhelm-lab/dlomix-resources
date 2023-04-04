@@ -3,3 +3,5 @@
 
 # ignore weights and biases directories under /notebooks only
 notebooks/**/wandb
+
+.DS_Store
