@@ -5,3 +5,4 @@
 notebooks/**/wandb
 
 .DS_Store
+.vscode/settings.json
