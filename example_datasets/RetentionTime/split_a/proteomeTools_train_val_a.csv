@@ -1,4 +1,4 @@
-sequence,irt,seq_len
+modified_sequence,indexed_retention_time,seq_len
 VQEETTLVDDPFQMK,83.0375385601538,15
 HYGLSDENNDDR,-2.44428192001232,12
 LLPEKDDAGLPPPK,34.4279294849637,14
